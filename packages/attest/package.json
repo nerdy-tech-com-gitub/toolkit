@@ -37,7 +37,7 @@
   "devDependencies": {
     "@sigstore/mock": "^0.7.4",
     "@sigstore/rekor-types": "^2.0.0",
-    "@types/jsonwebtoken": "^9.0.6",
+    "@types/jsonwebtoken": "^9.0.9",
     "nock": "^13.5.1",
     "undici": "^5.28.4"
   },
