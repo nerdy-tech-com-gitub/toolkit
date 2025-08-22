@@ -51,6 +51,6 @@
   "devDependencies": {
     "@types/semver": "^6.0.0",
     "@types/uuid": "^3.4.5",
-    "typescript": "^5.2.2"
+    "typescript": "^5.9.2"
   }
 }
